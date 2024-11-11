@@ -56,7 +56,7 @@ class UT_ProviderOrderStatus extends StatelessWidget {
                   backgroundColor: Colors.black,
                   foregroundColor: Colors.yellow,
                 ),
-                child: Text('Back to Home'),
+                child: Text('Back to Menu'),
               ),
             ],
           ),

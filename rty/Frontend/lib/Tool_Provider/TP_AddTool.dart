@@ -175,7 +175,7 @@ class _TP_AddToolState extends State<TP_AddTool> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Add Item"),
+        title: const Text("Add Prodect"),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.pop(context),

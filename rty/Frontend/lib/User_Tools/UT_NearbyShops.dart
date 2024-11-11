@@ -214,7 +214,7 @@ class _UT_NearbyShopsState extends State<UT_NearbyShops> {
                       },
                     ),
                     const Text(
-                      'Nearby Tool Shops',
+                      'Nearby Shops',
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
