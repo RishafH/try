@@ -288,7 +288,7 @@ class ToolDetails extends StatelessWidget {
                         textStyle: TextStyle(
                             fontSize: screenWidth * 0.04, color: Colors.white),
                       ),
-                      child: Text('Request'),
+                      child: Text('Order item'),
                     ),
                     SizedBox(height: 15),
                     ElevatedButton(
